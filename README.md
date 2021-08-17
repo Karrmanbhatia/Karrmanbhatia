@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karrmanbhatia
+- 👋 Hi, I’m Karrman Bhatia
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning Full stack development
 - 📫 Feel free to email me at karrmanbhatia@gmail.com
