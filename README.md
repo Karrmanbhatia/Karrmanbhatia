@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karrman Bhatia
-- 👀 I’m interested in web development and machine learning
 - 📫 Feel free to email me at karrmanbhatia@gmail.com
-- MyLinkediN - https://www.linkedin.com/in/karrman-bhatia-353186162/
+- MyLinkediN - (https://www.linkedin.com/in/karrman-bhatia/)
+- My Medium.com articles : https://medium.com/@karrmanbhatia29
 
 <!---
 Karrmanbhatia/Karrmanbhatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
