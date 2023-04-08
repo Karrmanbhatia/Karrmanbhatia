@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karrman Bhatia
 - 📫 Feel free to email me at karrmanbhatia@gmail.com
-- MyLinkediN - (https://www.linkedin.com/in/karrman-bhatia/)
+- MyLinkediN - https://www.linkedin.com/in/karrman-bhatia/
 - My Medium.com articles : https://medium.com/@karrmanbhatia29
 
 <!---
